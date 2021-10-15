@@ -8,7 +8,8 @@ const TransporCorreo = Correo.createTransport({
         }   
 });
 
-var Mensaje ='Estimado usuario, el siguiente es una prueba de envio de estado de cuentas por correo, favor hacer caso omiso. Cordial saludo';
+var Mensaje ='Estimado usuario, el siguiente es una prueba de envio de estado de cuentas por correo, favor hacer caso omiso. Cordiales saludos';
+
 var OpcionesCorreo =
                     {
                         from   :'Banco Nicaraguense<bancopruebanic@SpeechGrammarList.com>',
